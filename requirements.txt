@@ -1,0 +1,8 @@
+langchain-core
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
+langchain-community
+python-telegram-bot==21.4
+python-dotenv
+duckduckgo-search
